@@ -6,5 +6,6 @@
 </head>
 <body>
 	<h1>Takeru Diary</h1>
+	<p>test</p>
 </body>
 </html>
